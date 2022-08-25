@@ -1,0 +1,5 @@
+@media screen AND (max-width: 768px) {
+  .work {
+    justify-content: center;
+  }
+}
